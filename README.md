@@ -5,3 +5,5 @@ p1.py e p2.py: servem para gerar os arquivos de dados de ambas "joias" e "compra
 joias.dat e compras.dat são o resultado de p1 e p2, respectivamente.
 
 Manipulação_joias.py e Manipulação_compras.py correspondem à implementação das 3 perguntas e à parte 2.1 a 3.0 do trabalho.
+
+Indice_joias e Indice_compras correspodem  à implemntaçao requesitada na parte 2.2 do trabalho.
